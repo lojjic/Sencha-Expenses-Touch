@@ -38,6 +38,13 @@
                 "/Users/jjohnston/Work/SenchaDesigner/tmp/senchacon-git/app/view/ui/LoginForm.js"
             ],
             "className": "LoginForm"
+        },
+        "0617a85c-ca17-4058-a550-0aaa5ef0ba76": {
+            "paths": [
+                "/Users/jjohnston/Work/SenchaDesigner/tmp/senchacon-git/app/view/ListPanel.js",
+                "/Users/jjohnston/Work/SenchaDesigner/tmp/senchacon-git/app/view/ui/ListPanel.js"
+            ],
+            "className": "ListPanel"
         }
     }
 }
