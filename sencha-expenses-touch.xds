@@ -24,6 +24,7 @@
         },
         "codeClass": null,
         "userConfig": {
+            "autoCreateViewport": true,
             "name": "MyApp",
             "launch": ""
         }
@@ -59,6 +60,13 @@
                 "/Users/jjohnston/Work/SenchaDesigner/tmp/senchacon-git/app/view/ui/MainPanel.js"
             ],
             "className": "MainPanel"
+        },
+        "c67b5c0b-b851-420d-a12f-52e7152c1f12": {
+            "paths": [
+                "/Users/jjohnston/Work/SenchaDesigner/tmp/senchacon-git/app/view/Viewport.js",
+                "/Users/jjohnston/Work/SenchaDesigner/tmp/senchacon-git/app/view/ui/Viewport.js"
+            ],
+            "className": "Viewport"
         }
     }
 }
