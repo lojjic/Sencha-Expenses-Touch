@@ -45,6 +45,13 @@
                 "/Users/jjohnston/Work/SenchaDesigner/tmp/senchacon-git/app/view/ui/ListPanel.js"
             ],
             "className": "ListPanel"
+        },
+        "a25f3672-84b1-41ef-9927-7bb390c17f2d": {
+            "paths": [
+                "/Users/jjohnston/Work/SenchaDesigner/tmp/senchacon-git/app/view/AddExpenseForm.js",
+                "/Users/jjohnston/Work/SenchaDesigner/tmp/senchacon-git/app/view/ui/AddExpenseForm.js"
+            ],
+            "className": "AddExpenseForm"
         }
     }
 }
