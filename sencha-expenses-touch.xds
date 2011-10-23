@@ -52,6 +52,13 @@
                 "/Users/jjohnston/Work/SenchaDesigner/tmp/senchacon-git/app/view/ui/AddExpenseForm.js"
             ],
             "className": "AddExpenseForm"
+        },
+        "6c50fe19-3054-45d2-adf4-2833483df638": {
+            "paths": [
+                "/Users/jjohnston/Work/SenchaDesigner/tmp/senchacon-git/app/view/MainPanel.js",
+                "/Users/jjohnston/Work/SenchaDesigner/tmp/senchacon-git/app/view/ui/MainPanel.js"
+            ],
+            "className": "MainPanel"
         }
     }
 }
