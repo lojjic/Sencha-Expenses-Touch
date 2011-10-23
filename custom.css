@@ -1,0 +1,26 @@
+// Styles for expense list from Luca
+.merchant {
+    font-weight: bold;
+}
+
+.category {
+    color : #777;
+    font-size : small;
+}
+
+.amount {
+    float:right;
+    margin-top: -20px;
+}
+
+.amount:before {
+    color: #777;
+    content:"$";
+    vertical-align:12%;
+    margin-right: 5px;
+}
+
+.amount:after {
+    font-weight : normal;
+    content:".00";
+}
